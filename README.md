@@ -29,26 +29,4 @@ An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Par
 * :cloud: Working with Snowflake, AWS, SQL, and enterprise data platforms.
 * :gear: Expanding my experience with Docker, Airflow, dbt, DuckDB, and Kafka/Redpanda.
 * :books: Continuously exploring modern data engineering practices.
-* :earth_asia: Open to remote-first international opportunities and relocation to Europe.
-
-### <strong>Let's connect! 🤝</strong>
-
-<a href="https://www.linkedin.com/in/jeremy-krisna/">
-  <img
-    align="left"
-    alt="Jeremy's LinkedIn"
-    width="24px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
-    style="filter: invert(1);"
-  />
-</a>
-
-<a href="mailto:jeremykrisna@gmail.com">
-  <img
-    align="left"
-    alt="Jeremy's Email"
-    width="24px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"
-    style="filter: invert(1);"
-  />
-</a>
+* :earth_asia: Open to remote-first international opportunities and relocation overseas.
