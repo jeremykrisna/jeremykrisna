@@ -1,4 +1,4 @@
-# <summary><strong>Hi there 👋, I'm Jeremy!</strong></summary>
+# <strong>Hi there 👋, I'm Jeremy!</strong>
 
 Data Engineer / Data Platform working with cloud data warehouses, data pipelines, and enterprise data platforms.
 
@@ -17,13 +17,13 @@ Data Engineer / Data Platform working with cloud data warehouses, data pipelines
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
-### <summary><strong>Featured Project 📊</strong></summary>
+### <strong>Featured Project 📊</strong>
 
 :shopping_cart: **[E-commerce Data Pipeline](https://github.com/jeremykrisna/data-pipeline)**
 
 An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Parquet, and GitHub Actions.
 
-### <summary><strong>What I'm up to 🚀</strong></summary>
+### <strong>What I'm up to 🚀</strong>
 
 * :keyboard: Building data engineering projects and pipelines.
 * :cloud: Working with Snowflake, AWS, SQL, and enterprise data platforms.
@@ -31,7 +31,7 @@ An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Par
 * :books: Continuously exploring modern data engineering practices.
 * :earth_asia: Open to remote-first international opportunities and relocation to Europe.
 
-### <summary><strong>Let's connect! 🤝</strong></summary>
+### <strong>Let's connect! 🤝</strong>
 
 <a href="https://www.linkedin.com/in/jeremy-krisna/">
   <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
