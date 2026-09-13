@@ -23,13 +23,6 @@ Data Engineer / Data Platform working with cloud data warehouses, data pipelines
 
 An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Parquet, and GitHub Actions.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremykrisna&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremykrisna&layout=compact&hide_border=true" height="170" />
-</p>
-
 ### <summary><strong>What I'm up to 🚀</strong></summary>
 
 * :keyboard: Building data engineering projects and pipelines.
