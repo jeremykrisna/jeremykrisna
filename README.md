@@ -1,7 +1,5 @@
 # <strong>Hi there 👋, I'm Jeremy!</strong>
 
-<img src="https://komarev.com/ghpvc/?username=jeremykrisna&label=Profile%20views&style=flat" alt="Profile views" />
-
 Data Engineer / Data Platform working with cloud data warehouses, data pipelines, and enterprise data platforms.
 
 ### <strong>Tools & Technologies 🛠️</strong>
