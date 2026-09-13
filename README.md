@@ -2,7 +2,7 @@
 
 Data Engineer / Data Platform working with cloud data warehouses, data pipelines, and enterprise data platforms.
 
-### <summary><strong>Tools & Technologies 🛠️</strong></summary>
+### <strong>Tools & Technologies 🛠️</strong>
 
 <p>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
