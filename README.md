@@ -26,7 +26,7 @@ An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Par
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremykrisna&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremykrisna&show_icons=true&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremykrisna&layout=compact&hide_border=true" height="170" />
 </p>
 
