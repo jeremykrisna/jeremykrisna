@@ -1,16 +1,46 @@
-## Hi there 👋
+# <summary><strong>Hi there 👋, I'm Jeremy!</strong></summary>
 
-<!--
-**jeremykrisna/jeremykrisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer / Data Platform professional, currently working with enterprise data platforms and cloud data warehouses.
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jeremykrisna&label=Profile%20views&color=0e75b6&style=flat" alt="Jeremy Krisna" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <summary><strong>Tools & Technologies 🛠️</strong></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+</p>
+
+### <summary><strong>What I'm up to 🚀</strong></summary>
+
+* :keyboard: Building data engineering projects and pipelines.
+* :cloud: Working with Snowflake, AWS, SQL, and enterprise data platforms.
+* :gear: Exploring Docker, Airflow, dbt, DuckDB, and Kafka/Redpanda.
+* :books: Continuously learning modern data engineering practices.
+* :earth_asia: Open to remote-first international opportunities and relocation to Europe.
+
+### <summary><strong>Featured Project 📊</strong></summary>
+
+:shopping_cart: **[E-commerce Data Pipeline](https://github.com/jeremykrisna/data-pipeline)**
+
+An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Parquet, and GitHub Actions.
+
+### <summary><strong>Let's connect! 🤝</strong></summary>
+
+<a href="https://www.linkedin.com/in/jeremy-krisna/">
+  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
+</a>
+
+<a href="mailto:jeremykrisnaasfewrgre@gmail.com">
+  <img align="left" alt="Jeremy's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
+</a>
