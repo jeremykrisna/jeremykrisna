@@ -34,9 +34,21 @@ An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Par
 ### <strong>Let's connect! 🤝</strong>
 
 <a href="https://www.linkedin.com/in/jeremy-krisna/">
-  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
+  <img
+    align="left"
+    alt="Jeremy's LinkedIn"
+    width="24px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+    style="filter: invert(1);"
+  />
 </a>
 
-<a href="mailto:jeremykrisnaasfewrgre@gmail.com">
-  <img align="left" alt="Jeremy's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
+<a href="mailto:jeremykrisna@gmail.com">
+  <img
+    align="left"
+    alt="Jeremy's Email"
+    width="24px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"
+    style="filter: invert(1);"
+  />
 </a>
