@@ -1,10 +1,6 @@
 # <summary><strong>Hi there 👋, I'm Jeremy!</strong></summary>
 
-Data Engineer / Data Platform professional, currently working with enterprise data platforms and cloud data warehouses.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jeremykrisna&label=Profile%20views&color=0e75b6&style=flat" alt="Jeremy Krisna" />
-</p>
+Data Engineer / Data Platform working with cloud data warehouses, data pipelines, and enterprise data platforms.
 
 ### <summary><strong>Tools & Technologies 🛠️</strong></summary>
 
@@ -21,19 +17,26 @@ Data Engineer / Data Platform professional, currently working with enterprise da
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
-### <summary><strong>What I'm up to 🚀</strong></summary>
-
-* :keyboard: Building data engineering projects and pipelines.
-* :cloud: Working with Snowflake, AWS, SQL, and enterprise data platforms.
-* :gear: Exploring Docker, Airflow, dbt, DuckDB, and Kafka/Redpanda.
-* :books: Continuously learning modern data engineering practices.
-* :earth_asia: Open to remote-first international opportunities and relocation to Europe.
-
 ### <summary><strong>Featured Project 📊</strong></summary>
 
 :shopping_cart: **[E-commerce Data Pipeline](https://github.com/jeremykrisna/data-pipeline)**
 
 An end-to-end data pipeline built with Python, Airflow, DuckDB, dbt, Docker, Parquet, and GitHub Actions.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremykrisna&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremykrisna&layout=compact&hide_border=true" height="170" />
+</p>
+
+### <summary><strong>What I'm up to 🚀</strong></summary>
+
+* :keyboard: Building data engineering projects and pipelines.
+* :cloud: Working with Snowflake, AWS, SQL, and enterprise data platforms.
+* :gear: Expanding my experience with Docker, Airflow, dbt, DuckDB, and Kafka/Redpanda.
+* :books: Continuously exploring modern data engineering practices.
+* :earth_asia: Open to remote-first international opportunities and relocation to Europe.
 
 ### <summary><strong>Let's connect! 🤝</strong></summary>
 
